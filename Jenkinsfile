@@ -10,7 +10,7 @@ stage ('Testing') {
                     
                     try {
 
-                        sh "echo hy ismsaesel Credentail succeeded"
+                        sh "echo hy ismssaesel Credentail succeeded"
                         
 
                     } catch (err) {

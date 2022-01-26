@@ -26,7 +26,7 @@ provider "aws" {
   # Configuration options
 }
 # provider "ah" {
-#     # region  = "us-east-1"
+#     # regison  = "us-east-1"
 #   # Configuration options
 # }
 

@@ -10,6 +10,7 @@ stage ('Testing') {
                     try {
 
                         sh "echo Credentail succeeded"
+                        sh "terraform init"
                         
 
                     } catch (err) {
